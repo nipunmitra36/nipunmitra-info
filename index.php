@@ -9,9 +9,6 @@
     <meta name="description" content="nipun-mitra">
     <title>Nipun Mitra - Full-stack Web Developer</title>
 
-    <!-- favicon  -->
-    <link rel="shortcut icon" href="assets/img/nipun-mitra.jpeg" type="image/x-icon">
-
     <!-- google-fonts  -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.googleapis.com">
